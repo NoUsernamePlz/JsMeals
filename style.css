@@ -1,0 +1,46 @@
+img{
+    border-radius: 5px !important;
+}
+.col-med-3{
+    margin:30px !important;
+}
+p{
+    font-weight: bold;
+    font-size: 22px;
+}
+#navbar{
+    background-color: black;
+    display: flex;
+}
+li{
+    color: white;
+    list-style-type: none;
+    display: inline;
+    margin-left: 120px !important;
+}
+#nav-elements{
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+}
+#title{
+    font-size: 30px;
+    font-weight: bold;
+    padding-right:250px ;
+    
+}
+.footer{
+    background-color: rgb(41, 1, 1);
+    color: white;
+    text-align: center;
+   
+    padding: 10px;
+}
+#footerp{
+    font-weight: lighter ;
+    font-size: 15px;
+}
+#footern{
+    font-weight: lighter ;
+    font-size: 10px;
+}
